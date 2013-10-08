@@ -15,7 +15,7 @@
 
 
   </head>
-  <body id="home">
+  <body id="schedule">
 
 	<section class="container">
     	<div class="content row">
@@ -31,7 +31,7 @@
             </section> <!-- sidebar -->
         
         </div> <!-- content -->
-    <?php include "_/components/php/footer.php"; ?>
+    <?php include "_/components/php/footer.php"; ?>    
     </section><!-- container -->
 
 
